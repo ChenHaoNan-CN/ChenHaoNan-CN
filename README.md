@@ -67,12 +67,12 @@
 
 <!-- 动态编程语言统计 - 需要替换 YOUR-USERNAME -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" alt="最常用语言" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenHaoNan-CN&layout=compact&theme=radical&hide_border=true" alt="最常用语言" />
 </p>
 
 <!-- 连续提交动态图 -->
 <p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true&area=true" alt="活动记录" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ChenHaoNan-CN&theme=react-dark&hide_border=true&area=true" alt="活动记录" />
 </p>
 
 ---
