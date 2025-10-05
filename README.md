@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
   你好，我是 [你的名字/ID] - 数字世界的未来建造者
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
 </h1>
 
 <p align="center">
