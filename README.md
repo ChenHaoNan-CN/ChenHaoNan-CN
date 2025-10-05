@@ -80,10 +80,10 @@
 ### 📡 **通讯频道**
 
 <p align="center">
-  <a href="mailto:你的QQ邮箱地址">
+  <a href="mailto:3372773423@qq.com">
     <img src="https://img.shields.io/badge/QQ%20Mail-168DE2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="你的CSDN主页地址">
+  <a href="https://blog.csdn.net/2301_82206160?type=blog">
     <img src="https://img.shields.io/badge/CSDN-FF5722?style=for-the-badge&logo=csdn&logoColor=white" />
   </a>
 </p>
