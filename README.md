@@ -77,20 +77,20 @@
 
 ---
 
-### 📡 **通讯频道**
+### 🎛️ **控制台接口**
 
 <p align="center">
   <a href="mailto:3372773423@qq.com">
-    <img src="https://img.shields.io/badge/📧_QQ_Mail-168DE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1E2E&borderColor=00FF41" />
+    <img src="https://img.shields.io/badge/串口通讯-3372773423@qq.com-168DE2?style=for-the-badge&logo=arduino&logoColor=white" />
   </a>
-  <span style="display:inline-block; width: 20px;"></span>
+  <br>
   <a href="https://blog.csdn.net/2301_82206160?type=blog">
-    <img src="https://img.shields.io/badge/💻_CSDN_Blog-FF5722?style=for-the-badge&logo=csdn&logoColor=white&labelColor=1E1E2E&borderColor=00FF41" />
+    <img src="https://img.shields.io/badge/技术文档-CSDN日志-FF5722?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <sub><em>📶 节点状态: <span style="color: #00FF41">在线</span> | 响应延迟: &lt; 24h</em></sub>
+  <sub><em>⚡ 波特率: 115200 | 校验位: 无 | 数据位: 8</em></sub>
 </p>
 
 <div align="center">
