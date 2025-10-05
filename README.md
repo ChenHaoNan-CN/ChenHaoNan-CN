@@ -81,11 +81,16 @@
 
 <p align="center">
   <a href="mailto:3372773423@qq.com">
-    <img src="https://img.shields.io/badge/QQ%20Mail-168DE2?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧_QQ_Mail-168DE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1E2E&borderColor=00FF41" />
   </a>
+  <span style="display:inline-block; width: 20px;"></span>
   <a href="https://blog.csdn.net/2301_82206160?type=blog">
-    <img src="https://img.shields.io/badge/CSDN-FF5722?style=for-the-badge&logo=csdn&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻_CSDN_Blog-FF5722?style=for-the-badge&logo=csdn&logoColor=white&labelColor=1E1E2E&borderColor=00FF41" />
   </a>
+</p>
+
+<p align="center">
+  <sub><em>📶 节点状态: <span style="color: #00FF41">在线</span> | 响应延迟: &lt; 24h</em></sub>
 </p>
 
 <div align="center">
