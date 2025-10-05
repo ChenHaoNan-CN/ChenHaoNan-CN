@@ -42,7 +42,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align=""><img src="" width="20"/> 🛡️ 网络要塞</h3>
+      <h3 align="center"><img src="https://img.icons8.com/fluency/48/000000/motherboard.png" width="20"/> 网络要塞</h3>
       <br>
       <p align="center">
         <em>守护比特，捍卫数字边疆</em>
