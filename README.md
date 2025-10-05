@@ -80,14 +80,12 @@
 ### 📡 **通讯频道**
 
 <p align="center">
-  <!-- 替换 # 为你的实际链接 -->
   <a href="#">
     <img src="https://img.shields.io/badge/QQ-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" />
   </a>
   <a href="mailto:你的邮箱">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- 如果有博客可以加上 -->
   <a href="#">
     <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
