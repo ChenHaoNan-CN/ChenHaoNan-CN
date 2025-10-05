@@ -36,7 +36,7 @@
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
       </p>
       <ul>
-        <li>
+        <p>
         <li>🔌 嵌入式系统开发与逆向</li>
         <li>⚡ IoT设备安全研究</li>
         <li>🔧 从原理图到PCB的完整流程</li>
