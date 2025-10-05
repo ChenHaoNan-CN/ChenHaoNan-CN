@@ -80,14 +80,11 @@
 ### 📡 **通讯频道**
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/QQ-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" />
+  <a href="mailto:你的QQ邮箱地址">
+    <img src="https://img.shields.io/badge/QQ%20Mail-168DE2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:你的邮箱">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  <a href="你的CSDN主页地址">
+    <img src="https://img.shields.io/badge/CSDN-FF5722?style=for-the-badge&logo=csdn&logoColor=white" />
   </a>
 </p>
 
