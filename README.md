@@ -68,7 +68,7 @@
 
 <!-- 连续提交动态图 -->
 <p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ChenHaoNan-CN&theme=react-dark&hide_border=true&area=true" alt="活动记录" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ChenHaoNan-CN&theme=github-dark&bg_color=1a1b27&hide_border=true&area=true&color=ff79c6&line=ff79c6&point=ff79c6&area_color=ff79c6&title_color=ff79c6" alt="活动记录" />
 </p>
 
 ---
